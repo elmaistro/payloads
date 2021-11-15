@@ -1,3 +1,4 @@
+<script>document.write("<script>aler");</script>t(1337)</script>
 '';!--"<XSS>=&{()}
 \"><script>alert(0x000123)</script>
 \"><sCriPt>alert(0x000123)</sCriPt>
